@@ -102,12 +102,17 @@ make a clustering model that will have 2 cluster, grizzly bear cluster and non-g
 <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/4.jpg?raw=true" height="300" width="400">
 
 
-# Project 5 : PopLegal (Software Engineering)
+# Project 5 :  Blytz Megaplex's Database (Database System)
 
 1. Helen Clarissa - 2201762130
+2. Greecelia Wongsi - 2201758253
+3. Samuel Erdianto Simon - 2201746695	
+4.	Leo Christopher Coo - 2201808125	
 
-**PopLegal Description**
+**Blytz Megaplex's Database Description**
 
+bLYtz Megaplex project is given by Binus University as our final project where Blytz Megaplex is cinema belongs to Lyora. bLYtz Megaplex provides several studios as places to watch movies and sells refreshments which consists of beverages and food. Every staff who is hired by bLYtz Megaplex have tasks to serve a customer who wants to buy tickets for watching movie and buy refreshments. Every staff also must arrange movie schedule for every movie and studio in bLYtz Megaplex. We were task to design and create a database system that can store data and maintain sales transactions and assets recordings according to requirements has been requested.
 
+**Blytz Megaplex's Database ERD**
 
-**PopLegal User Interface**
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/ERD.jpg?raw=true" height="300" width="400">
