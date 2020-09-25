@@ -83,16 +83,23 @@ This project is part of assignment given by Binus University for our HCI (Human 
 
 
 
-# Project 4 : Classification In Machine Learning (Big Data)
+# Project 4 : Classification and Clustering In Machine Learning (Big Data)
 
 1. Helen Clarissa - 2201762130
 
 
-**Classification In Machine Learning Description**
+**Classification In Machine Learning**
+creating a predictive model that will classify whether a planet is likely to be habitable or not based on given collected data in Planet_Training.csv and Planet_Testing.csv. The step will be done by first Load Data then select the feature which will be process and later transformed the raw data into suitable for training then normalized before generate the model and output the testing evaluation to confirm credibility.
+
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/1.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/2.jpg?raw=true" height="300" width="400">
 
 
-**code:**
+**Clustering In Machine Learning**
+make a clustering model that will have 2 cluster, grizzly bear cluster and non-grizzly bear cluster based on given collected data in “BearTraining.csv” and “BearTesting.csv”.The step will be done by first Load Data then select the feature which will be process and later transformed the raw data into suitable for training then normalized before generate the model and output the testing evaluation to confirm credibility.
 
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/3.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/4.jpg?raw=true" height="300" width="400">
 
 
 # Project 5 : PopLegal (Software Engineering)
