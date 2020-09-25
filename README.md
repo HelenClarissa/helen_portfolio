@@ -1,5 +1,5 @@
  
-# Helen clarissa's portfolio
+# Helen Clarissa's portfolio
 as by September 25th 2020
 
 # Project 1 : MyRoom (Software Engineering)
@@ -21,13 +21,13 @@ while user who register as a designer will need to submit their portfolio and co
 **below are several images from our application prototype**
 
 
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/myroom.png" height="390" width="190" > <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/register.png" height="390" width="190" > <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/log%20in.png" height="390" width="190" >
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/regularmode.png" height="390" width="190" >
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/whichroom.png" height="390" width="190" >
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/profile.png" height="390" width="190" >
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/references.png" height="390" width="190" >
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/professional.png" height="390" width="190" >
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/monthrank.png" height="390" width="190" >
+<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/myroom.png?raw=true" height="390" width="190" > <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/register.png?raw=true" height="390" width="190" > <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/log%20in.png?raw=true" height="390" width="190" >
+<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/regularmode.png?raw=true" height="390" width="190" >
+<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/whichroom.png?raw=true" height="390" width="190" >
+<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/profile.png?raw=true" height="390" width="190" >
+<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/references.png?raw=true" height="390" width="190" >
+<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/professional.png?raw=true" height="390" width="190" >
+<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/monthrank.png?raw=true" height="390" width="190" >
 
 
 # Project 2 : RXPlayer (Human Computer Interaction)
@@ -45,10 +45,29 @@ This project is part of assignment given by Binus University for our HCI (Human 
 
 **below are several images from the website blueprint**
 
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/registerrx.jpg" height="200" width="400"> <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/homepage.jpg" height="200" width="400">
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/premium.jpg" height="200" width="400">
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/genre.jpg" height="200" width="400">
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/top10.jpg" height="255" width="400">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/registerrx.jpg?raw=true" height="200" width="400"> <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/homepage.jpg?raw=true" height="200" width="400">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/premium.jpg?raw=true" height="200" width="400">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/genre.jpg?raw=true" height="200" width="400">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/top10.jpg?raw=true" height="255" width="400">
 
+
+# Project 3 : Blytz Megaplex (Human Computer Interaction)
+
+1. Helen Clarissa - 2201762130
+
+
+**Blytz Megaplex Description**
+
+This project is part of assignment given by Binus University for our HCI (Human Computer Interaction) course. we are given the task to start the development of the website based on given requirement.
+
+
+**below are several images from the website blueprint**
+
+# Project 4 : PopLegal (Software Engineering)
+
+1. Helen Clarissa - 2201762130
+
+
+**PopLegal User Interface**
 
 
