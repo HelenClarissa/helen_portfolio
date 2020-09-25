@@ -42,7 +42,7 @@ while user who register as a designer will need to submit their portfolio and co
 
 This project is part of assignment given by Binus University for our HCI (Human Computer Interaction) course. RX player is a digital music player company with main purpose of  providing millions of high-quality songs from any of the countries all around the world. We are assigned to create a website. The website can be used by the user as a listener or a creator. our team are also asked us to create a logo that represents their company. 
 
-**code snippet**
+**code :**
 
 [homepage HTML](https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/homepage.html)
 
@@ -69,7 +69,7 @@ This project is part of assignment given by Binus University for our HCI (Human 
 
 This project is part of assignment given by Binus University for our HCI (Human Computer Interaction) course. we are given the task to start the development of the website based on given requirement.
 
-**code snippet**
+**code :**
 
 [Homepage HTML](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/homepage.html)
 
@@ -81,17 +81,26 @@ This project is part of assignment given by Binus University for our HCI (Human 
 
 <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/blueprint.png?raw=true" height="250" width="250">
 
-# Project 4 : PopLegal (Software Engineering)
+
+
+# Project 4 : Classification In Machine Learning (Big Data)
 
 1. Helen Clarissa - 2201762130
+
+
+**Classification In Machine Learning Description**
+
+
+**code:**
+
+
+
+# Project 5 : PopLegal (Software Engineering)
+
+1. Helen Clarissa - 2201762130
+
+**PopLegal Description**
+
 
 
 **PopLegal User Interface**
-
-
-# Project 5 : Classification In Machine Learning (Big Data)
-
-1. Helen Clarissa - 2201762130
-
-
-**code snippet**
