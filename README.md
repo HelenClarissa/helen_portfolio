@@ -45,10 +45,9 @@ This project is part of assignment given by Binus University for our HCI (Human 
 
 **below are several images from the website blueprint**
 
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/registerrx.jpg?raw=true" height="150" width="350"> <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/homepage.jpg?raw=true" height="150" width="350">
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/premium.jpg?raw=true" height="150" width="350">
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/genre.jpg?raw=true" height="150" width="350">
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/top10.jpg?raw=true" height="200" width="350">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/registerrx.jpg?raw=true" height="150" width="300"> <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/homepage.jpg?raw=true" height="150" width="300"> <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/premium.jpg?raw=true" height="150" width="300">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/genre.jpg?raw=true" height="150" width="300">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/top10.jpg?raw=true" height="200" width="300">
 
 
 # Project 3 : Blytz Megaplex (Human Computer Interaction)
@@ -63,7 +62,7 @@ This project is part of assignment given by Binus University for our HCI (Human 
 
 **below are several images from the website blueprint**
 
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/blueprint.png?raw=true" height="250" width="350">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/blueprint.png?raw=true" height="300" width="350">
 
 # Project 4 : PopLegal (Software Engineering)
 
