@@ -29,6 +29,7 @@ while user who register as a designer will need to submit their portfolio and co
 <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/professional.png" height="390" width="190" >
 <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/monthrank.png" height="390" width="190" >
 
+
 # Project 2 : RXPlayer (Human Computer Interaction)
 
 **Teams :**
@@ -42,7 +43,7 @@ while user who register as a designer will need to submit their portfolio and co
 This project is part of assignment given by Binus University for our HCI (Human Computer Interaction) course. RX player is a digital music player company with main purpose of  providing millions of high-quality songs from any of the countries all around the world. We are assigned to create a website. The website can be used by the user as a listener or a creator. our team are also asked us to create a logo that represents their company. 
 
 
-**below are several images from the website prototype**
+**below are several images from the website blueprint**
 
 <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/registerrx.jpg" height="200" width="400"> <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/homepage.jpg" height="200" width="400">
 <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/premium.jpg" height="200" width="400">
