@@ -115,4 +115,9 @@ bLYtz Megaplex project is given by Binus University as our final project where B
 
 **Blytz Megaplex's Database ERD**
 
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/ERD.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/ERD.jpg?raw=true" height="300" width="470">
+
+[Insert Data Query](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/insertdataquery)
+[Create Database System](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/create_database)
+[Stimulate Transaction](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/Stimulate_Transaction)
+
