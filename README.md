@@ -62,7 +62,8 @@ This project is part of assignment given by Binus University for our HCI (Human 
 
 
 **below are several images from the website blueprint**
-<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/blueprint.png?raw=true" height="150" width="350">
+
+<img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/blueprint.png?raw=true" height="250" width="350">
 
 # Project 4 : PopLegal (Software Engineering)
 
