@@ -21,9 +21,7 @@ while user who register as a designer will need to submit their portfolio and co
 **below are several images from our application prototype**
 
 
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/myroom.png" height="390" width="190" >
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/register.png" height="390" width="190" >
-<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/log%20in.png" height="390" width="190" >
+<img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/myroom.png" height="390" width="190" > <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/register.png" height="390" width="190" > <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/log%20in.png" height="390" width="190" >
 <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/regularmode.png" height="390" width="190" >
 <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/whichroom.png" height="390" width="190" >
 <img src="https://github.com/HelenClarissa/helen_portofolio/blob/master/images/profile.png" height="390" width="190" >
