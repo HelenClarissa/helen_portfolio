@@ -43,10 +43,14 @@ while user who register as a designer will need to submit their portfolio and co
 This project is part of assignment given by Binus University for our HCI (Human Computer Interaction) course. RX player is a digital music player company with main purpose of  providing millions of high-quality songs from any of the countries all around the world. We are assigned to create a website. The website can be used by the user as a listener or a creator. our team are also asked us to create a logo that represents their company. 
 
 **code snippet**
-[homepage HTML] (https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/homepage.html)
-[homepage CSS] (https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/homepage.css)
-[register page HTML] (https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/register.html)
-[register page CSS] (https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/register.css)
+
+[homepage HTML](https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/homepage.html)
+
+[homepage CSS](https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/homepage.css)
+
+[register page HTML](https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/register.html)
+
+[register page CSS](https://github.com/HelenClarissa/helen_portfolio/blob/master/RXPlayer/register.css)
 
 
 **below are several images from the website blueprint**
@@ -66,8 +70,11 @@ This project is part of assignment given by Binus University for our HCI (Human 
 This project is part of assignment given by Binus University for our HCI (Human Computer Interaction) course. we are given the task to start the development of the website based on given requirement.
 
 **code snippet**
+
 [Homepage HTML](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/homepage.html)
+
 [Feedback Page HTML](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/feedback.html)
+
 [Header CSS](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/header.css)
 
 **below are image from the website homepage blueprint**
