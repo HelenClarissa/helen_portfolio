@@ -1,0 +1,24 @@
+--SIMULATE TRANSACTION
+
+--Buying Movie Ticket
+
+
+insert into HeaderMovie values ('MTr020','SF001',GETDATE())
+
+insert into MovieTransactionDetail values ('MTr020','MS012','20')
+
+
+--Buying Refreshment
+
+insert into HeaderRefreshment values
+('RTr020','SF001',GETDATE())
+
+insert into RefreshmentTransactionDetail values ('RTr020','RE001','1')
+
+UPDATE MsRE
+SET Stock = Stock + Quantity
+FROM MsRE a JOIN RefreshmentTransactionDetail b 
+ON a.REID = b.REID
+WHERE RefreshmentTr_ID LIKE 'RTr020'
+
+
