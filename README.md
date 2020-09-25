@@ -2,7 +2,7 @@
 # Helen clarissa's portfolio
 as by September 25th 2020
 
-# project 1 : MyRoom (Software Engineering)
+# Project 1 : MyRoom (Software Engineering)
 [prototype link](https://xd.adobe.com/view/39d94b48-0532-45be-7a73-984ee666804c-4fe8/?fullscreen&hints=off) 
 
 **Teams :**
