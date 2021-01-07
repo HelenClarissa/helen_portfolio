@@ -102,6 +102,29 @@ make a clustering model that will have 2 cluster, grizzly bear cluster and non-g
 <img src="https://github.com/HelenClarissa/helen_portfolio/blob/master/images/4.jpg?raw=true" height="300" width="400">
 
 
+# project 5 : Animal Zoo Analyst (Data Mining using R project)
+
+1. Data Analysis and Visualisation 
+bar plot :
+
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r1.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r2.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/Rplot.png?raw=true" height="300" width="400">
+
+pie chart:
+
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r3.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r4.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r5.jpg?raw=true" height="300" width="400">
+
+plot :
+
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/rplot.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/plot.jpg?raw=true" height="300" width="400">
+
+
+2. Frequent Data Pattern
+
 # Project 5 :  Blytz Megaplex's Database (Database System)
 
 1. Helen Clarissa - 2201762130
@@ -124,4 +147,6 @@ bLYtz Megaplex project is given by Binus University as our final project where B
 [Create Database System](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/create_database)
 
 [Stimulate Transaction](https://github.com/HelenClarissa/helen_portfolio/blob/master/Blytz/Stimulate_Transaction)
+
+
 
