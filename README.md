@@ -148,7 +148,7 @@ association rules using minimum confidence: 0.5 based on the frequent Animal Spe
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/assosiation%20rules.png?raw=true" height="140" width="500">
 
 
-# Project 5 :  Blytz Megaplex's Database (Database System)
+# Project 6 :  Blytz Megaplex's Database (Database System)
 
 1. Helen Clarissa - 2201762130
 2. Greecelia Wongsi - 2201758253
