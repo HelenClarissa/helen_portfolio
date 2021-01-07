@@ -135,7 +135,7 @@ data transformation
 
 data mining
 
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r8.jpg?raw=true" height="250" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r8.jpg?raw=true" height="200" width="400">
 
 result:
 
