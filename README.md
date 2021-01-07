@@ -131,7 +131,7 @@ data preprocessing
 
 data transformation
 
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r7.jpg?raw=true" height="150" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r7.jpg?raw=true" height="150" width="500">
 
 data mining
 
@@ -141,11 +141,11 @@ result:
 
 frequent Animal Species using Apriori algorithm with minimum support: 0.05 based on the data that have already pre-processed:
 
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/frequent%20animal%20species%20using%20apriori.png?raw=true" height="200" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/frequent%20animal%20species%20using%20apriori.png?raw=true" height="800" width="400">
 
 association rules using minimum confidence: 0.5 based on the frequent Animal Species that resulted from step above:
 
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/assosiation%20rules.png?raw=true" height="200" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/assosiation%20rules.png?raw=true" height="170" width="400">
 
 
 # Project 5 :  Blytz Megaplex's Database (Database System)
