@@ -108,30 +108,37 @@ make a clustering model that will have 2 cluster, grizzly bear cluster and non-g
 bar plot :
 
 [code](https://github.com/HelenClarissa/portfolio/blob/master/Zoo/bar%20plot)
+
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/Rplot.png?raw=true" height="300" width="400">
 
 pie chart:
 
 [code](https://github.com/HelenClarissa/portfolio/blob/master/Zoo/pie%20chart)
+
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r5.jpg?raw=true" height="300" width="420">
 
 plot :
 
 [code](https://github.com/HelenClarissa/portfolio/blob/master/Zoo/plot)
+
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/plot.jpg?raw=true" height="300" width="400">
 
 2. Frequent Data Pattern
 
 data preprocessing
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r6.jpg?raw=true" height="300" width="400">
+
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r6.jpg?raw=true" height="280" width="400">
 
 data transformation
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r7.jpg?raw=true" height="100" width="200">
+
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r7.jpg?raw=true" height="100" width="350">
 
 data mining
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r8.jpg?raw=true" height="300" width="400">
+
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r8.jpg?raw=true" height="250" width="400">
 
 result:
+
 frequent Animal Species using Apriori algorithm with minimum support: 0.05 based on the data that have already pre-processed:
 
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/frequent%20animal%20species%20using%20apriori.png?raw=true" height="300" width="400">
