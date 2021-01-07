@@ -1,0 +1,26 @@
+animaldata <- read.csv('data/AnimalData.csv')
+animalzoolocation <- read.csv('data/AnimalZooLocation.csv')
+
+#visualize the data in graph form
+
+animaldata <- animaldata[order(animaldata$aquatic , decreasing = TRUE),]
+
+comparison <- animaldata$aquatic
+comparison <- table(comparison)
+comparison <- sort(comparison, decreasing = FALSE)
+
+
+barplot(
+  comparison,
+  main = "comparison" ,
+  xlab = "Type",
+  ylab = "Count",
+  names.arg = c("Aquatic", "Non Aquatic"),
+  col = c('red','cyan')
+)
+
+legend(
+  'topright',
+  c('Aquatic','Non Aquatic'),
+  fill = c('red','cyan')
+)
