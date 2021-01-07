@@ -1,6 +1,6 @@
  
 # Helen Clarissa's portfolio
-as by September 25th 2020
+as by January 5th 2021
 
 # Project 1 : MyRoom (Software Engineering)
 [prototype link](https://xd.adobe.com/view/39d94b48-0532-45be-7a73-984ee666804c-4fe8/?fullscreen&hints=off) 
@@ -107,18 +107,39 @@ make a clustering model that will have 2 cluster, grizzly bear cluster and non-g
 1. Data Analysis and Visualisation 
 bar plot :
 
+[code](https://github.com/HelenClarissa/portfolio/blob/master/Zoo/bar%20plot)
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/Rplot.png?raw=true" height="300" width="400">
 
 pie chart:
 
+[code](https://github.com/HelenClarissa/portfolio/blob/master/Zoo/pie%20chart)
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r5.jpg?raw=true" height="300" width="420">
 
 plot :
 
+[code](https://github.com/HelenClarissa/portfolio/blob/master/Zoo/plot)
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/plot.jpg?raw=true" height="300" width="400">
 
-
 2. Frequent Data Pattern
+
+data preprocessing
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r6.jpg?raw=true" height="300" width="400">
+
+data transformation
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r7.jpg?raw=true" height="100" width="200">
+
+data mining
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r8.jpg?raw=true" height="300" width="400">
+
+result:
+frequent Animal Species using Apriori algorithm with minimum support: 0.05 based on the data that have already pre-processed:
+
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/frequent%20animal%20species%20using%20apriori.png?raw=true" height="300" width="400">
+
+association rules using minimum confidence: 0.5 based on the frequent Animal Species that resulted from step above:
+
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/assosiation%20rules.png?raw=true" height="300" width="400">
+
 
 # Project 5 :  Blytz Megaplex's Database (Database System)
 
