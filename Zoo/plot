@@ -1,0 +1,15 @@
+#Show the frequency of animal based on their legs. 
+#Take only species which leg count is not five or eight.
+
+animaldata <- animaldata[order(animaldata$legs),]
+frequency_leg <- animaldata$legs[animaldata$legs != 5 & animaldata$legs != 8]
+frequency_leg <- table(frequency_leg)
+
+plot(
+  frequency_leg,
+  type = 'p',
+  main = "Animal Leg Count Statistics",
+  xlab = "Leg Count",
+  ylab = "Frequency",
+  col = 'red'
+)
