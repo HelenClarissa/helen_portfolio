@@ -1,0 +1,21 @@
+#the frequency of Predator and Non-Predator species. 
+#Take only species which is has backbone.
+
+animaldata <- animaldata[order(animaldata$predator),]
+frequency_predator <- animaldata$predator[animaldata$backbone > 0]
+frequency_predator <- table(frequency_predator)
+lbls <- ifelse(
+  names(frequency_predator) == "0",
+  'Non Predator',
+  'Predator'
+)
+sum_frequencypredator <- frequency_predator 
+lbls <- paste(lbls, sum_frequencypredator)
+lbls <- paste(lbls, "Species", sep= " ")
+
+pie(
+  frequency_predator,
+  label = lbls,
+  col = c('firebrick1','cyan'),
+  main = "Predatorial Animal Percentage Statistics"
+)
