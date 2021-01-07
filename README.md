@@ -145,7 +145,7 @@ frequent Animal Species using Apriori algorithm with minimum support: 0.05 based
 
 association rules using minimum confidence: 0.5 based on the frequent Animal Species that resulted from step above:
 
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/assosiation%20rules.png?raw=true" height="170" width="330">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/assosiation%20rules.png?raw=true" height="170" width="500">
 
 
 # Project 5 :  Blytz Megaplex's Database (Database System)
