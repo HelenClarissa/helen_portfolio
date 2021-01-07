@@ -107,19 +107,14 @@ make a clustering model that will have 2 cluster, grizzly bear cluster and non-g
 1. Data Analysis and Visualisation 
 bar plot :
 
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r1.jpg?raw=true" height="300" width="400">
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r2.jpg?raw=true" height="100" width="300">
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/Rplot.png?raw=true" height="300" width="400">
 
 pie chart:
 
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r3.jpg?raw=true" height="300" width="400">
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r4.jpg?raw=true" height="150" width="300">
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r5.jpg?raw=true" height="300" width="400">
+<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/r5.jpg?raw=true" height="300" width="420">
 
 plot :
 
-<img src="https://github.com/HelenClarissa/portfolio/blob/master/images/rplot.jpg?raw=true" height="280" width="400">
 <img src="https://github.com/HelenClarissa/portfolio/blob/master/images/plot.jpg?raw=true" height="300" width="400">
 
 
